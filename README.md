@@ -9,6 +9,7 @@ Create a database with the following attributes:
 	password = "7676",
 	host = "localhost",
 	port = "5432"
+
 2)
 Use DDL.sql to create the tables
 
