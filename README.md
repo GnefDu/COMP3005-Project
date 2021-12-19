@@ -18,7 +18,7 @@ Change the source files User.py and Owner.py connection attributes match the att
 Use DDL.sql to create the tables
 
 3)
-Use Queries.sql to populate the tables with data
+Use Queries.sql to populate the tables
 
 4)
 Run python script User.py for user functionalities
