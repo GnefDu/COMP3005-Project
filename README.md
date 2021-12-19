@@ -10,6 +10,10 @@ Create a database with the following attributes:
 	host = "localhost",
 	port = "5432"
 
+OR
+
+Change the source files User.py and Owner.py connection attributes match the attributes of your database
+
 2)
 Use DDL.sql to create the tables
 
